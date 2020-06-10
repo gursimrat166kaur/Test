@@ -19,6 +19,7 @@ public class Tryexample {
     public static void main(String[] args) 
     {
        System.out.println("learn positioning");
+        System.out.println("pull +merge");
         
     }
 

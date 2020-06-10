@@ -20,6 +20,7 @@ public class Tryexample {
     {
        System.out.println("learn positioning");
         System.out.println("pull +merge");
+        System.out.println("fetch +merge");
         
     }
 
